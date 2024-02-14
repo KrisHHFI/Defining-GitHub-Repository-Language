@@ -1,6 +1,6 @@
 # Defining a GitHub Repository's Language
 
-## Projects with code files
+## Projects which contain other code files
 
 1. Create a file named **.gitattributes**
 2. Inside the file paste the following: __*__  __linguist-language=Java__ 
